@@ -1,5 +1,5 @@
 const onj ={
-    name: "praveen",
+    name: "kumar",
     some: function(){
         console.log(this);
     }
