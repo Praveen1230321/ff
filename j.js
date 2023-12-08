@@ -1,5 +1,5 @@
 const on = {
-    name:"praveen"
+    name:"pk"
 }
 function x(){
     console.log(this.on);
